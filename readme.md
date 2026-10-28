@@ -348,6 +348,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
 - [Focusd](https://github.com/0xarchit/Focusd) - [Windows] A local, privacy-first screen time monitor.
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage and cost tracker for coding tools.
 
 ### Note Taking, Lists, Task Management
 
